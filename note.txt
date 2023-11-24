@@ -1,2 +1,6 @@
 afjafjdsjf;fjalj;ljf;sfjsljf;sfjsflslk
+<<<<<<< HEAD
 hskvdkjfsa;fjfs;fsjf;slajl;akf loi
+=======
+hskvdkjfsa;fjfs;fsjf;slajl;akf xin chaof
+>>>>>>> 299aff77ef4338361258d82f94868b56726bee0a
